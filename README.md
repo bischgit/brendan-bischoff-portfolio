@@ -1,6 +1,8 @@
 # brendan-bischoff-portfolio
 
-This is my current portfolio where you can view some of my projects and get my contact information! Please let me know if you have any questions regarding any of the content or the portfolio itself. Don't hesitate to reach out!
+This is my current portfolio where you can view some of my projects and get my contact information! 
+
+Please let me know if you have any questions regarding any of the content or the portfolio itself. Don't hesitate to reach out!
 
 Thanks for viewing, heres a screenshot of the current build.
 
