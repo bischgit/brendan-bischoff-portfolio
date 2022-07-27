@@ -1,4 +1,5 @@
 # brendan-bischoff-portfolio
+https://bischgit.github.io/brendan-bischoff-portfolio/
 
 This is my current portfolio where you can view some of my projects and get my contact information! 
 
